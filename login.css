@@ -1,0 +1,56 @@
+body{
+    background-image:url("http://yourforum.gr/InvisionBoard/uploads/1503301815/gallery_1_42_40798.jpg");
+    background:#00455f;
+}
+.form-1{
+    background:#b2e6fa;
+   /* ?\ background-image: url("http://yourforum.gr/InvisionBoard/uploads/1503301815/gallery_1_42_40798.jpg");  */
+    width:200px;
+    height:250px;
+    margin:auto;
+    padding:50px;
+    /* border:2px solid red; */
+    border-radius: 5px;
+}
+h1{
+    text-align:center;
+    color:mistyrose;
+    cursor:pointer;
+}
+.container{
+    padding:70px;
+}
+label{
+    color:plum;
+}
+button{
+    background:black;
+    color:white;
+}
+li{
+    list-style:none;
+}
+li a{
+    text-decoration:none;
+    float:left;
+    padding-left:20px;
+    text-transform: uppercase;
+    border-right:0.5px solid black;
+
+}
+.nav a{
+    color:red;
+    cursor:pointer;
+}
+.nav a:hover{
+    color:violet;
+}
+.nav a:active{
+    color:salmon;
+    background:sandybrown;
+}
+.nav{
+    background:linen;
+    height:15px;
+}
+</style>
